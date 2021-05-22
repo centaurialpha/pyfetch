@@ -35,6 +35,7 @@ def get_used_memory():
     used = mem_obj.used
     return round(_convert_to_gb(used), 2)
 
+
 def get_total_memory():
     mem_obj = _get_memory()
     total = mem_obj.total
