@@ -1,8 +1,0 @@
-README.md
-setup.py
-bin/pyfetch
-src/pyfetch/main.py
-src/pyfetch.egg-info/PKG-INFO
-src/pyfetch.egg-info/SOURCES.txt
-src/pyfetch.egg-info/dependency_links.txt
-src/pyfetch.egg-info/top_level.txt
