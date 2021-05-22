@@ -1,1 +1,2 @@
 # pyfetch
+System information tool

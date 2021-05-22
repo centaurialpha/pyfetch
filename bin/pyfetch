@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from pyfetch.main import run
+
+run()
